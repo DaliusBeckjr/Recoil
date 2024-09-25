@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 module.exports = {
   // Configuration options accepted by the `relay-compiler` command-line tool and `babel-plugin-relay`.
   src: './packages/recoil-relay/__tests__',

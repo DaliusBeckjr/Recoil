@@ -22,11 +22,13 @@
     "@eslint/js": "^9.11.1",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-node-resolve": "^15.3.0",
+    "babel-plugin-relay": "^18.0.0",
     "babel-plugin-syntax-hermes-parser": "^0.23.1",
     "eslint": "^9.11.1",
     "eslint-plugin-ft-flow": "^3.0.11",
     "globals": "^15.9.0",
     "hermes-eslint": "^0.23.1",
+    "relay-compiler": "^18.0.0",
     "typescript-eslint": "^8.7.0"
   }
 }

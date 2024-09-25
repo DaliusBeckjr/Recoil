@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *

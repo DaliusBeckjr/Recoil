@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "lib": ["es6", "dom"],
+    "module": "ES6", // or "ESNEXT" for ES modules
+    "lib": ["ES2020", "DOM"], // Update to include newer features
     "noImplicitAny": true,
     "noImplicitThis": true,
     "strictFunctionTypes": true,
     "strictNullChecks": true,
+    "strict": true,
     "types": [],
     "noEmit": true,
     "forceConsistentCasingInFileNames": true,
