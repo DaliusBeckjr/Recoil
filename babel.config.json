@@ -1,5 +1,5 @@
 {
-  "presets": ["@babel/react", "@babel/flow"],
+  "presets": ["@babel/preset-react", "@babel/preset-flow"],
   "plugins": [
     [
       "module-resolver",

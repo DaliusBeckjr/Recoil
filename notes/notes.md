@@ -2,7 +2,7 @@ old npm installs
 
 
 {
-  "name": "my-state-management-package",
+  "name": "recoil",
   "private": true,
   "description": "A custom state management library for React",
   "main": "cjs/index.js",
